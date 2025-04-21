@@ -1,8 +1,11 @@
 Task 1 : Data Cleanig and Preprocessing
+
 Datasets Used is Retail Store Sales Data 
+
 Overview
 This document outlines the data cleaning and preparation process performed on a retail store sales dataset using Microsoft Excel.
 Data Cleaning Steps Completed
+
 1. Handling Missing Values
 
 Replaced all empty cells with NULL values for text and categorical fields
