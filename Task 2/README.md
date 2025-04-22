@@ -115,10 +115,4 @@ This repository contains dashboards and analytics for Super Store sales, includi
 
 The dashboards and their insights provide a robust foundation for data-driven decision-making. By following these strategic recommendations, Super Store can improve its market penetration, optimize operational practices, and enhance overall profitability.
 
-## 🤝 Contributions
 
-Contributions to this repository are welcome. Please follow the standard fork-and-pull request workflow for contributions. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
