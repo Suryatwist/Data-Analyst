@@ -1,7 +1,7 @@
 # 📊 Task 4: Interactive Dashboard Design – Sales/Financial Analytics
 
 ## 🎯 Objective
-Design an **interactive business dashboard** using **Power BI** or **Tableau** to help stakeholders gain insights into key financial and sales metrics.
+Design an **interactive business dashboard** using **Power BI**  to help stakeholders gain insights into key financial and sales metrics.
 
 ---
 
